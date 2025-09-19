@@ -2,8 +2,7 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-
+TA lab slides 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
